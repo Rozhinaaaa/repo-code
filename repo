@@ -24,7 +24,6 @@ ufw allow 31245
 ufw allow 8545
 ufw allow 8546
 ufw allow 6060
-ufw allow 30303
 ufw allow 3000
 ufw enable
 =============

@@ -41,6 +41,8 @@ Ctrl + x
 
 Ctrl + V
 
+Ctrl + P
+
 Enter
 =============
 docker compose up -d

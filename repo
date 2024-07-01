@@ -39,7 +39,7 @@ ENABLE_PROPOSER=true
 L1=...
 L2=...
 
-
+#$Exit
 Enter\Bash
 =============
 docker compose up -d

@@ -31,7 +31,7 @@ docker compose down
 =============
 cp .env.sample .env
 =============
-nano .env 
+nano .env /
 
 ENABLE_PROPOSER=true
 L1=...

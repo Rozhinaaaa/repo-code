@@ -1,5 +1,7 @@
 sudo apt autoremove docker* container* -y
 
+#install docker:
+
 sudo apt install jq curl wget tar zip unzip -y
 =============
 curl -sSL https://get.docker.com | bash -

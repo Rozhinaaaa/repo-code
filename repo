@@ -42,3 +42,5 @@ Enter\Bash
 docker compose up -d
 =============
 sudo docker-compose logs -f
+
+Enter\ok

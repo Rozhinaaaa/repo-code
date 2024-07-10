@@ -42,6 +42,8 @@ Enter\ok
 
 sudo apt install jq curl wget tar zip unzip -y
 docker compose up -d
+
+Enter\ok
 =============
 sudo docker-compose logs -f
 

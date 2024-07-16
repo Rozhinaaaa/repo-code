@@ -37,7 +37,7 @@ ENABLE_PROPOSER=true
 L1=...
 L2=...
 
-Enter\ok
+
 =============
 
 sudo apt install jq curl wget tar zip unzip -y

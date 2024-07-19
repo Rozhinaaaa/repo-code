@@ -37,6 +37,7 @@ ENABLE_PROPOSER=true
 L1=...
 L2=...
 
+#cp .env.sample .env
 
 =============
 

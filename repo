@@ -53,7 +53,7 @@ Enter\ok
 sudo curl -SL https://github.com/docker/compose/releases/download/v2.14.2/docker-compose-linux-x86_64 -o /usr/local/bin/docker-compose
 
 =============
-nano .env /
+nano .env 
 
 ENABLE_PROPOSER=true
 L1=...

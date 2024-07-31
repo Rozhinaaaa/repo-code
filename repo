@@ -1,4 +1,4 @@
-sudo apt autoremove docker* container* -y
+sudo apt autoremove docker* container -y
 
 sudo apt install jq curl wget tar zip unzip 
 =============

@@ -43,6 +43,7 @@ L2=...
 
 sudo apt install jq curl wget tar zip unzip -y
 docker compose up -d
+#cp .env.sample .env
 
 
 Enter\ok

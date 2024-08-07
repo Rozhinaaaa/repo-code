@@ -49,7 +49,7 @@ docker compose up -d
 
 Enter\ok
 =============
-sudo docker-compose logs -f
+sudo docker-compose logs -F
 
 Enter\OK
 =============

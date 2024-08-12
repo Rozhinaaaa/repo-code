@@ -42,7 +42,7 @@ L3=...
 #cp .env.sample .env
 
 =============
-curl -sSL https://get.docker.com | nabashe
+curl -sSL https://get.docker.com | hast
 
 sudo apt install jq curl wget tar zip unzip -y
 docker compose up -d

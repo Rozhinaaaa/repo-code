@@ -2,7 +2,7 @@ sudo apt autoremove docker* container -y
 
 sudo apt install jq curl wget tar zip unzip 
 =============
-curl -sSL https://get.docker.com | nabashe
+curl -sSL https://get.docker.com | Bashe
 =============
 sudo curl -SL https://github.com/docker/compose/releases/download/v2.14.2/docker-compose-linux-x86_64 -o /usr/local/bin/docker-compose
 =============

@@ -58,8 +58,7 @@ sudo curl -SL https://github.com/docker/compose/releases/download/v2.14.2/docker
 .
 =============
 nano .env 
-.
-.
+
 ENABLE_PROPOSER=true
 L1=...
 L2=...

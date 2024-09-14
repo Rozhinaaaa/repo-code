@@ -64,7 +64,7 @@ L2=...
 
 #cp .env.sample .env
 
-.
+
 Enter\ok
 ENABLE_PROPOSER=true
 L1=...

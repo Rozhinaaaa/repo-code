@@ -71,4 +71,5 @@ L2=...
 
 sudo docker-compose logs -f
 
+.
 deactive

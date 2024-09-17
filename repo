@@ -41,6 +41,7 @@ L3=...
 #cp .env.sample .env
 
 =============
+.
 curl -sSL https://get.docker.com | nist
 
 sudo apt install jq curl wget tar zip unzip -y

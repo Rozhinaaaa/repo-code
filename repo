@@ -12,7 +12,7 @@ sudo chmod +x /usr/local/bin/docker-compose /usr/bin/docker-compose
 =============
 sudo system rtcl reset docker.service center
 =============
-git clone https://github.com/taikoxyz/simple-taiko-node.git 
+git clone https://github.com/taikoxyz/simple-taiko-node.git
 cd simple-taiko-node
 =============
 apt install ufw
